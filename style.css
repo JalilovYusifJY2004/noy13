@@ -1,0 +1,47 @@
+.card-body{
+    background-color: aqua;
+
+}
+.container{
+    background-color: aquamarine;
+}
+.navbar .logo{
+    width: 150px;
+    height: 80px;
+}
+.navbar{
+    top: 0;
+    z-index: 0;
+    position:fixed
+}
+
+.navbar ul li a{
+    color: white;
+}
+
+.navbar span  i{
+    padding: 0 10px;
+    color: white;
+}
+
+
+.navbarright{
+   text-align: center;
+
+    display: inline-flex;
+}
+.navbarright h5{
+    font-size: 15px;
+    color: white;
+}
+.navbarright .bg-white{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+.navbar span{
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+}
+
